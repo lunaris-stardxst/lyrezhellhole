@@ -1,0 +1,17 @@
+{
+  "id": "lyrezhellhole",
+  "name": "lyrezhellhole",
+  "author": [
+    "lyrelyrecardsonfire"
+  ],
+  "description": "a jokerforge mod meant to be shitty, i'll update every so often, ",
+  "prefix": "lzh",
+  "main_file": "main.lua",
+  "version": "0.0.3",
+  "priority": -3,
+  "badge_colour": "333eee",
+  "badge_text_colour": "eee333",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0404a)"
+  ]
+}
