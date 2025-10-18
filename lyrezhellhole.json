@@ -1,0 +1,18 @@
+{
+  "id": "lyrezhellhole",
+  "name": "lyrezhellhole",
+  "author": [
+    "lyre"
+  ],
+  "description": "a highly shitty balatro mod that exists simple to be a mod.",
+  "prefix": "lzh",
+  "main_file": "main.lua",
+  "version": "0.0.43",
+  "priority": -3,
+  "badge_colour": "333eee",
+  "badge_text_colour": "634d84",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0404a)",
+    "Talisman"
+  ]
+}
